@@ -1,4 +1,4 @@
-🚀 #Smart Travel Designer Agent
+🚀 # Smart Travel Designer Agent
 📖 **Description**
 
 The Gemini Travel Agent Project is a Python-based project that aims to create a conversational AI-powered travel booking system. This system is designed to assist users in planning and booking their travel smoothly, providing them with personalized recommendations for flights, hotels, and destinations. The project utilizes OpenAI's ChatCompletionsModel to generate human-like responses and provide users with relevant information.
