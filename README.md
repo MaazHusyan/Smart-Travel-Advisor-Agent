@@ -55,4 +55,4 @@ The project is structured around multiple agents, each responsible for a specifi
 
 * This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-I hope this README provides a comprehensive overview of the Gemini Travel Agent Project. If you have any questions or need further clarification, please don't hesitate to reach out! 😊
+I hope this README provides a comprehensive overview of the Gemini Travel Agent Project. If you have any questions or need further clarification, please don't hesitate to reach out! 

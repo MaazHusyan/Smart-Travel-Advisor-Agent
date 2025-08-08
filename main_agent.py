@@ -44,7 +44,7 @@ async def run_main_agent():
     print("WELLCOME TO SMART TRAVEL ADVISOR AGENT")
     
     while True:
-        query = input("😃: ").strip()
+        query = input("🧑🏽: ").strip()
         
         if query.lower() in ["exit", "quit", "stop"]:
             print("Exiting the Career Mentor Agent. Goodbye!")
